@@ -1,0 +1,3 @@
+interface Rumoroso {
+    void emettiRumore();
+}
